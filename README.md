@@ -3,7 +3,8 @@
 ## General Government Debt, 2015
 Total % of GDP
 
-<iframe src="https://data.oecd.org/chart/5CPn" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/5CPn" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2015</a></iframe>
+<iframe src="https://data.oecd.org/chart/5CTS" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/5CTS" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2015</a></iframe>
+
 
 Beeswarm Plot
 
